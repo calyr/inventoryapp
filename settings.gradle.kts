@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "inventoryapp"
 include(":app")
+include(":domain")
+include(":data")
+include(":framework")
